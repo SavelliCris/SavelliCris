@@ -1,5 +1,8 @@
 ## Hey, there! 👋
 
+My name is Cris, and welcome to my profile.
+I'm currently learning about SOC basics, along with python and programming logics.
+
 
 <!--
 **SavelliCris/SavelliCris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
