@@ -1,7 +1,7 @@
 ## Hey, there! 👋
 
 My name is Cris, and welcome to my profile.
-# I'm currently learning about SOC basics, along with python and programming logics.
+### I'm currently learning about SOC basics, along with python and programming logics.
 
 
 <!--
