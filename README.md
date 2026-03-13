@@ -1,15 +1,15 @@
 ## Hey, there! 👋
 
 <p align="left"> 
- Me chamo Cris, e atualmente estou cursando Análise e Desenvolvimento de sistemas. <br> Tenho como foco trabalhar como Analista SOC e futuramente como DevSecOps.
+ Me chamo Cris, atualmente estou cursando Análise e Desenvolvimento de Sistemas. <br> Tenho como foco trabalhar como Analista SOC e futuramente como DevSecOps.
 </p>
 
 <p align="left">
-  🦄 Linguagens: Python
+ ๋࣭ ⭑✮💻₊ ⊹ Linguagens: Python
 </p>
 
 <p align="left">
-  💼 Ferramentas: PyCharm, VsCode
+ℓ∿̥`🔎´ೃ࿔ Ferramentas: PyCharm, VsCode
 </p>
 
 <!--
