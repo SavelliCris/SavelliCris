@@ -22,6 +22,7 @@
 
 <p align="left">
 |➤ LinkedIn:  https://www.linkedin.com/in/cristiane-savelli-06a612353/
+</p>
 |➤ E-Mail:  cristianesavelli548@gmail.com
 </p>
 
