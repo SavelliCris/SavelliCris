@@ -1,10 +1,9 @@
 ## Hey, there! 👋
 
 <p align="left"> 
- Me chamo Cris, atualmente estou cursando Análise e Desenvolvimento de Sistemas.
-</p>
+ Me chamo Cris, atualmente estou cursando Análise e Desenvolvimento de Sistemas.</p>
   Estou em transição de carreira, com foco em atuar como Analista de Dados / Engenheira de Dados. Curto trabalhar com dados, resolver problemas e transformar informação em algo útil.
-
+</p>
 
 - 🔭 Atualmente aprendendo SQL
 - 🐍 Já trabalho com Python
